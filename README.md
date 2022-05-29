@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a privacy software developer. If you like what I do: https://ko-fi.com/cypherbits 
+
 <!--
 **cypherbits/cypherbits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
