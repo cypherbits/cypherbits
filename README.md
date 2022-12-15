@@ -2,7 +2,6 @@
 
 I'm a privacy software developer. If you like what I do please donate: 
 
-- https://ko-fi.com/cypherbits 
 - Monero address: 4BCveGZaPM7FejGkhFyHgtjVXZw52RrYxKs7znZdmnWLfB3xDKAW6SkYZPpNhqBvJA8crE8Tug8y7hx8U9KAmq83PwLtVLe
 
 <!--
