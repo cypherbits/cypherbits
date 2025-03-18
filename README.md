@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a privacy software developer. If you like what I do please donate: 
-
-- Monero address: 4BCveGZaPM7FejGkhFyHgtjVXZw52RrYxKs7znZdmnWLfB3xDKAW6SkYZPpNhqBvJA8crE8Tug8y7hx8U9KAmq83PwLtVLe
+I'm a privacy software engineer.
 
 <!--
+
+- Monero address: 4BCveGZaPM7FejGkhFyHgtjVXZw52RrYxKs7znZdmnWLfB3xDKAW6SkYZPpNhqBvJA8crE8Tug8y7hx8U9KAmq83PwLtVLe
 **cypherbits/cypherbits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
