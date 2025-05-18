@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a privacy software engineer.
+I'm a software engineer focused on many technologies, such as PHP or Java. I make open source tools.
+
+If you like my work: get me some Ko-fi on https://ko-fi.com/flyingdino
 
 <!--
 
