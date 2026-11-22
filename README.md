@@ -35,7 +35,7 @@ Repositories I've contributed to outside my own account, updated automatically.
 | [monero-integrations/monerophp](https://github.com/monero-integrations/monerophp) | 2 | 0 | Monero PHP library + JsonRPC Client | PHP |
 | [BquantFinance/licitaciones-espana](https://github.com/BquantFinance/licitaciones-espana) | 1 | 0 | — | Python |
 
-<sub>30 merged PRs across 11 external repositories · last update 2026-11-21</sub>
+<sub>30 merged PRs across 12 external repositories · last update 2026-11-22</sub>
 <!-- CONTRIBUTIONS:END -->
 
 ## 📊 Stats
