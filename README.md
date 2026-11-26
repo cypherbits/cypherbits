@@ -30,12 +30,12 @@ Repositories I've contributed to outside my own account, updated automatically.
 | --- | :---: | :---: | --- | --- |
 | [DanWin/le-chat-php](https://github.com/DanWin/le-chat-php) | 11 | 0 | A PHP Chat based on LE CHAT | PHP |
 | [phare/sloggo](https://github.com/phare/sloggo) | 7 | 0 | Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resourc… | TypeScript |
-| [RayLabsHQ/gitea-mirror](https://github.com/RayLabsHQ/gitea-mirror) | 4 | 0 | Gitea Mirror auto-syncs GitHub repos to your self-hosted Gitea/Forgejo, with a sleek We… | TypeScript |
-| [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 3 | 8 | Free universal database tool and SQL client | Java |
+| [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 5 | 6 | Free universal database tool and SQL client | Java |
+| [RayLabsHQ/gitea-mirror](https://github.com/RayLabsHQ/gitea-mirror) | 5 | 0 | Gitea Mirror auto-syncs GitHub repos to your self-hosted Gitea/Forgejo, with a sleek We… | TypeScript |
 | [monero-integrations/monerophp](https://github.com/monero-integrations/monerophp) | 2 | 0 | Monero PHP library + JsonRPC Client | PHP |
-| [BquantFinance/licitaciones-espana](https://github.com/BquantFinance/licitaciones-espana) | 1 | 0 | — | Python |
+| [hacs/default](https://github.com/hacs/default) | 1 | 0 | The home of the default HACS repositories. | Python |
 
-<sub>32 merged PRs across 12 external repositories · last update 2026-11-25</sub>
+<sub>36 merged PRs across 12 external repositories · last update 2026-11-26</sub>
 <!-- CONTRIBUTIONS:END -->
 
 ## 📊 Stats
