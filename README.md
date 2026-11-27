@@ -35,7 +35,7 @@ Repositories I've contributed to outside my own account, updated automatically.
 | [monero-integrations/monerophp](https://github.com/monero-integrations/monerophp) | 2 | 0 | Monero PHP library + JsonRPC Client | PHP |
 | [hacs/default](https://github.com/hacs/default) | 1 | 0 | The home of the default HACS repositories. | Python |
 
-<sub>36 merged PRs across 12 external repositories · last update 2026-11-26</sub>
+<sub>36 merged PRs across 12 external repositories · last update 2026-11-27</sub>
 <!-- CONTRIBUTIONS:END -->
 
 ## 📊 Stats
